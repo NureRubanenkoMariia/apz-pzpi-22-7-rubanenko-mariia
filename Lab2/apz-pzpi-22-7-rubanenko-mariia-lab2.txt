@@ -724,7 +724,7 @@
 15:10 Розділ 3.13 Етапи розгортання системи 
 19:50 Висновки
 
-
+Посилання на файл з кодом в GitHub репозиторії: https://github.com/NureRubanenkoMariia/apz-pzpi-22-7-rubanenko-mariia/tree/main/Lab2/apz-pzpi-22-7-rubanenko-mariia-lab2/backend
 
 
 
